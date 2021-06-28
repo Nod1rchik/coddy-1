@@ -1,2 +1,6 @@
 *.env
-index.html
+test/asd
+vendor
+node_modules
+
+
