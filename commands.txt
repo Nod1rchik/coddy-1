@@ -1,0 +1,8 @@
+git init - initalizatsiya 
+git add * - barcha o'zgargan fayllarni comment bo'lgunicha kuzatish
+git coomit -m "commentariya"
+git push - Github ga o'zgargan fayllarni yuborish
+git pull - Github dan o'zgarishlarni yuklash
+git branch branch-name - branch-name bu yerda branch nomi
+git checkout branch-name  - branch-name nomli branchga o'tish
+
