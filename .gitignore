@@ -1,6 +1,7 @@
 *.env
-test/asd
+test
 vendor
 node_modules
+
 
 
