@@ -5,4 +5,5 @@ git push - Github ga o'zgargan fayllarni yuborish
 git pull - Github dan o'zgarishlarni yuklash
 git branch branch-name - branch-name bu yerda branch nomi
 git checkout branch-name  - branch-name nomli branchga o'tish
+git clone https://github.com/BuSineSSmannn/coddy.git - Githubdan repozitoriyani klonlashtirish
 
